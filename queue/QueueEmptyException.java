@@ -1,2 +1,4 @@
-package queue;public class QueueEmptyException {
+package queue;
+
+public class QueueEmptyException extends Exception {
 }

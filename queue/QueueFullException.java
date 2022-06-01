@@ -1,2 +1,4 @@
-package queue;public class QueueFullException {
+package queue;
+
+public class QueueFullException extends Exception{
 }
